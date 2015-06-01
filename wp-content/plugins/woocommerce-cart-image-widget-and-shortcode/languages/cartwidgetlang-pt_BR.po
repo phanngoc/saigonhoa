@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Cart Image - Widget and Shortcode - Wordpress Sidebar and Posts Plugin v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-01-16 09:54:08+0000\n"
+"Last-Translator: WPShowCase <translate@wpshowcase.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: woocommerce-cart-image-widget.php:14
+#@ cartwidgetlang
+msgid "WooCommerce Cart Image Widget"
+msgstr ""
+
+#: woocommerce-cart-image-widget.php:15
+#@ cartwidgetlang
+msgid "A widget that displays a cart image and the number of items in the cart."
+msgstr ""
+
+#: woocommerce-cart-image-widget.php:90
+#@ cartwidgetlang
+msgid "Choose/Upload Image"
+msgstr ""
+
+#: woocommerce-cart-image-widget.php:97
+#@ cartwidgetlang
+msgid "Please choose a background color for the number of items in the cart:"
+msgstr ""
+
+#: woocommerce-cart-image-widget.php:107
+#@ cartwidgetlang
+msgid "Please choose a text color for the number of items in the cart:"
+msgstr ""
+
+#. translators: plugin header field 'Name'
+#: woocommerce-cart-image.php:0
+#@ cartwidgetlang
+msgid "WooCommerce Cart Image - Widget and Shortcode - Wordpress Sidebar and Posts Plugin"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#: woocommerce-cart-image.php:0
+#@ cartwidgetlang
+msgid "http://codecanyon.net/item/woocommerce-distance-rate-shipping/5586711?ref=WPShowCase"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: woocommerce-cart-image.php:0
+#@ cartwidgetlang
+msgid "WooCommerce Cart Image is a fantastic plugin that displays a cart image and item in cart count that links to your shopping cart."
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: woocommerce-cart-image.php:0
+#@ cartwidgetlang
+msgid "WooCommerce and Wordpress Plugins"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: woocommerce-cart-image.php:0
+#@ cartwidgetlang
+msgid "http://codecanyon.net/user/WPShowCase/portfolio?ref=WPShowCase"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: woocommerce-cart-image.php:0
+#@ cartwidgetlang
+msgid "1.0"
+msgstr ""
+
+#: woocommerce-cart-image.php:95
+#@ cartwidgetlang
+msgid "Widgets Page (to add/edit this widget)"
+msgstr ""
+

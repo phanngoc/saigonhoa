@@ -1,0 +1,19 @@
+/**
+ * @author WPShowCase <admin@wpshowcase.net>
+ * @copyright Copyright (c) 2014, WPShowCase.net
+ */
+ 
+ .woocommerce-cart-image-widget a {
+	position:relative;
+	padding-right:5px;
+	display:inline-block;
+}
+
+.woocommerce-cart-image-text {
+	position: absolute;
+	top: 0;
+	right: 0px;
+	font-size: 14px;
+	padding: 1px 4px;
+	border-radius: 8px;
+}

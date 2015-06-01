@@ -1,0 +1,334 @@
+/*
+Theme Name: Virtue Child Theme
+Theme URI: phanngocebs.tk
+Description: Day la child theme cua Virtue
+Author: Phanbom
+Author URI: http://phanngocebs.tk
+Template: virtue
+Version: 0.1
+*/
+@import url("../virtue/style.css");
+@import url(http://fonts.googleapis.com/css?family=Slabo+27px);
+li{
+                list-style: none;
+}
+.sidebar-right li h1{
+                padding-left : 5px;
+                padding-right : 5px;
+                font-family: 'Slabo 27px', serif;
+                font-size : 25px;
+                background-color: #007121;
+                color : white;
+}
+.sidebar-right > li {
+                border-left : 1px solid #ADFFC3;
+                border-right : 1px solid #ADFFC3;
+                border-bottom : 1px solid #ADFFC3;
+}
+#woocommerce_top_rated_products-2 > ul {
+    padding-left : 10px;
+    padding-right: 8px;
+}
+
+.product_item .kad_add_to_cart{
+    background-color : #3DFF63;
+}
+
+.product_item:hover .kad_add_to_cart{
+    background-color: #229137;
+}
+
+#tab-description h4 , #reply-title{
+                padding-left : 5px;
+                padding-right : 5px;
+                font-family: 'Slabo 27px', serif;
+                font-size : 25px;
+                color : white;
+                background: #006e2e; /* Old browsers */
+                background: -moz-linear-gradient(top, #006e2e 0%, #006e2e 100%); /* FF3.6+ */
+                background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#006e2e), color-stop(100%,#006e2e)); /* Chrome,Safari4+ */
+                background: -webkit-linear-gradient(top, #006e2e 0%,#006e2e 100%); /* Chrome10+,Safari5.1+ */
+                background: -o-linear-gradient(top, #006e2e 0%,#006e2e 100%); /* Opera 11.10+ */
+                background: -ms-linear-gradient(top, #006e2e 0%,#006e2e 100%); /* IE10+ */
+                background: linear-gradient(to bottom, #006e2e 0%,#006e2e 100%); /* W3C */
+                filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#006e2e', endColorstr='#006e2e',GradientType=0 ); /* IE6-9 */
+}
+
+.woocommerce .woocommerce-breadcrumb {
+   margin: 0 0 20px;
+   padding: 0;
+   list-style: none;
+   font-size: 1em;
+   background: #eee;
+   border-width: 1px;
+   border-style: solid;
+   border-color: #e5e5e5 #e5e5e5 #ccc;
+   border-radius: 5px;
+   box-shadow: 0 0 2px rgba(0,0,0,.2);
+   overflow: hidden;
+   width: 100%;
+}
+
+.woocommerce .woocommerce-breadcrumb li {
+   white-space: nowrap;
+   float: left;
+}
+
+.woocommerce .woocommerce-breadcrumb a {
+   white-space: nowrap;  
+   padding: .7em 1em .7em 2em;
+   float: left;
+   text-decoration: none;
+   color: #444;
+   position: relative;
+   text-shadow: 0 1px 0 rgba(255,255,255,.5);
+   background-color: #ddd;
+   background-image: linear-gradient(to right, #f5f5f5, #ddd);  
+}
+
+.woocommerce .woocommerce-breadcrumb li:first-child a {
+   padding-left: 1em;
+   border-radius: 5px 0 0 5px;
+}
+
+.woocommerce .woocommerce-breadcrumb a:hover {
+   background: #fff;
+}
+
+.woocommerce .woocommerce-breadcrumb a::after,
+.woocommerce .woocommerce-breadcrumb a::before {
+   content: "";
+   position: absolute;
+   top: 50%;
+   margin-top: -1.5em;   
+   border-top: 1.5em solid transparent;
+   border-bottom: 1.5em solid transparent;
+   border-left: 1em solid;
+   right: -1em;
+}
+
+.woocommerce .woocommerce-breadcrumb a::after { 
+   z-index: 2;
+   border-left-color: #ddd;  
+}
+
+.woocommerce .woocommerce-breadcrumb a::before {
+   border-left-color: #ccc;  
+   right: -1.1em;
+   z-index: 1; 
+}
+
+.woocommerce .woocommerce-breadcrumb a:hover::after {
+   border-left-color: #fff;
+}
+
+.woocommerce .woocommerce-breadcrumb li:last-child,
+.woocommerce .woocommerce-breadcrumb li:last-child:hover {
+   font-weight: bold;
+   background: none;
+   padding: .7em 1em .7em 2em;
+}
+
+.woocommerce .woocommerce-breadcrumb li:last-child::after,
+.woocommerce .woocommerce-breadcrumb li:last-child::before {
+   content: normal;  
+}
+
+
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,300);
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:700,400);
+#cssmenu {
+  font-family: 'Roboto Slab', serif;
+  font-size: 12px;
+  line-height: 15px;
+  text-transform: uppercase;
+  text-align: left;
+}
+#cssmenu > ul {
+  background-color: #0066FF;
+  width: auto;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  border: 1px solid #ece6e8;
+  border-bottom: 3px solid #d9ced2;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -o-border-radius: 2px;
+  border-radius: 2px;
+}
+#cssmenu > ul li#responsive-tab {
+  display: none;
+  /* Hide for large screens */
+
+}
+#cssmenu > ul li {
+  display: inline-block;
+  *display: inline;
+  zoom: 1;
+}
+#cssmenu > ul li.right {
+  float: right;
+}
+#cssmenu > ul li.has-sub {
+  position: relative;
+}
+#cssmenu > ul li.has-sub:hover ul {
+  display: block;
+}
+#cssmenu > ul li.has-sub ul {
+  z-index: 10;    
+  display: none;
+  width: 250px;
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  background: #404040;
+  border: 1px solid #ece6e8;
+  border-bottom: 3px solid #d9ced2;
+  border-top: 0 none;
+}
+#cssmenu > ul li.has-sub ul li a{
+  color : white;
+}
+#cssmenu > ul li.has-sub ul li {
+  display: block;
+}
+#cssmenu > ul li.has-sub > a {
+  background-image: url('images/caret.png');
+  background-repeat: no-repeat;
+  background-position: 90% -95%;
+}
+#cssmenu > ul li.has-sub > a.active,
+#cssmenu > ul li.has-sub > a:hover {
+  background: #0043A8 url('images/caret.png') no-repeat;
+  background-position: 90% 195%;
+}
+#cssmenu > ul li a {
+  background-color : #0066FF; 
+  display: block;
+  padding: 12px 24px 11px 24px;
+  text-decoration: none;
+  color: white;
+}
+#cssmenu > ul li a.active,
+#cssmenu > ul li a:hover {
+  background: #0043A8;
+  color: #fff;
+}
+@media (max-width: 600px) {
+  #cssmenu > ul {
+    width: 100%;
+    background-color: #0066FF;
+  }
+  #cssmenu > ul li#responsive-tab {
+    display: block;
+  }
+  #cssmenu > ul li#responsive-tab a {
+    background: url('images/menu.png') no-repeat;
+    background-position: 95% -35%;
+    color : white;
+  }
+  #cssmenu > ul li#responsive-tab a:hover {
+    background-color: #d80041;
+    background-position: 95% 135%;
+  }
+  #cssmenu > ul li {
+    display: none;
+  }
+  #cssmenu > ul li.right {
+    float: none;
+  }
+  #cssmenu > ul li.has-sub {
+    position: relative;
+  }
+  #cssmenu > ul li.has-sub ul {
+    z-index: 10;  
+    display: block;
+    position: static;
+    width: 100%;
+    background: #ffffff;
+    border: 0 none;
+  }
+  #cssmenu > ul li.has-sub ul li {
+    display: block !important;
+  }
+  #cssmenu > ul li.has-sub ul li a span {
+    display: block;
+    padding-left: 24px;
+  }
+  #cssmenu > ul li.has-sub > a {
+    background-image: none;
+  }
+}
+/* Make sure they show even if hidden in mobile view by JS */
+@media (min-width: 600px) {
+  #cssmenu > ul > li.collapsed {
+    display: inline-block !important;
+    *display: inline;
+    zoom: 1;
+  }
+  #cssmenu > ul ul li.collapsed {
+    display: block !important;
+  }
+}
+
+.topclass{
+    background: transparent;
+}
+.topbarmenu 
+{
+    background : #004AFF;
+}
+.kad-topbar-right{
+    display: block;
+    height: 41px;
+    margin : 0px;
+    border-bottom: 3px solid #d9ced2;
+    background-color : #0066FF;
+}
+.itemlogin{
+    background : #004AFF;
+}
+.itemlogin img{
+    padding : 5px;
+}
+.itemlogin p{
+    display: block;
+    margin : 0px;
+    padding-left : 60px;
+}
+.itemlogin a{
+    padding-left : 20px;
+    padding-bottom : 5px;
+}
+.itemlogin a,.itemlogin p{
+    color : white;
+    font-family: Lato;
+    font-size: 14px;
+}
+#woocommerce_recently_viewed_products-2 {
+    display: block;
+}
+#woocommerce_recently_viewed_products-2 h4{
+    font-size: 25px;
+    font-family: Lato;
+    background-color : #00992B;
+    color :white;
+    text-align: center;
+}
+#woocommerce_recently_viewed_products-2 ul
+{
+    display: block ;
+    width: 100%;
+}
+#woocommerce_recently_viewed_products-2 ul li{
+    //display : inline-block;
+    //width : 20%;
+    //float : left;
+    border : 1px solid #D1FF91;
+    padding : 5px;
+    margin : 0px 10px 0px 10px;
+}

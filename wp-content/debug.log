@@ -1,0 +1,1787 @@
+[25-Mar-2015 09:21:18 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:21:18 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:21:18 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:21:18 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:21:19 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:21:19 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:21:19 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:21:19 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:21:20 UTC] PHP Notice:  Undefined index: buttons in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 173
+[25-Mar-2015 09:21:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 173
+[25-Mar-2015 09:21:20 UTC] PHP Notice:  Undefined index: buttons in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1913
+[25-Mar-2015 09:21:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1913
+[25-Mar-2015 09:21:20 UTC] PHP Notice:  Undefined index: buttons in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1961
+[25-Mar-2015 09:21:20 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1961
+[25-Mar-2015 09:21:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1913
+[25-Mar-2015 09:21:20 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1961
+[25-Mar-2015 09:21:47 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:21:47 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:21:47 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:21:47 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:21:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 173
+[25-Mar-2015 09:21:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1913
+[25-Mar-2015 09:21:48 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1961
+[25-Mar-2015 09:21:48 UTC] PHP Notice:  Undefined variable: csv_output in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\import.php on line 480
+[25-Mar-2015 09:21:48 UTC] PHP Notice:  Undefined index: change in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\wccm_file_upload.php on line 62
+[25-Mar-2015 09:21:48 UTC] PHP Notice:  Undefined index: change in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\wccm_file_upload.php on line 72
+[25-Mar-2015 09:21:48 UTC] PHP Notice:  Undefined index: change in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\wccm_file_upload.php on line 82
+[25-Mar-2015 09:21:48 UTC] PHP Notice:  Undefined index: change in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\wccm_file_upload.php on line 90
+[25-Mar-2015 09:21:48 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 417
+[25-Mar-2015 09:21:48 UTC] PHP Notice:  Undefined index: positionb21 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 417
+[25-Mar-2015 09:21:48 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 418
+[25-Mar-2015 09:21:48 UTC] PHP Notice:  Undefined index: positionb1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 418
+[25-Mar-2015 09:21:48 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 419
+[25-Mar-2015 09:21:48 UTC] PHP Notice:  Undefined index: positionb1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 419
+[25-Mar-2015 09:21:48 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 420
+[25-Mar-2015 09:21:48 UTC] PHP Notice:  Undefined index: positionb1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 420
+[25-Mar-2015 09:21:48 UTC] PHP Notice:  Undefined index: replace in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 424
+[25-Mar-2015 09:21:48 UTC] PHP Notice:  Undefined index: replace in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 425
+[25-Mar-2015 09:21:48 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 437
+[25-Mar-2015 09:21:48 UTC] PHP Notice:  Undefined index: positionb21 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 437
+[25-Mar-2015 09:21:48 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 438
+[25-Mar-2015 09:21:48 UTC] PHP Notice:  Undefined index: positionb3 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 438
+[25-Mar-2015 09:21:48 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 439
+[25-Mar-2015 09:21:48 UTC] PHP Notice:  Undefined index: positionb3 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 439
+[25-Mar-2015 09:21:48 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 440
+[25-Mar-2015 09:21:48 UTC] PHP Notice:  Undefined index: positionb3 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 440
+[25-Mar-2015 09:21:48 UTC] PHP Notice:  Undefined index: replace in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 444
+[25-Mar-2015 09:21:48 UTC] PHP Notice:  Undefined index: replace in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 445
+[25-Mar-2015 09:21:48 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 456
+[25-Mar-2015 09:21:48 UTC] PHP Notice:  Undefined index: positionb21 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 456
+[25-Mar-2015 09:21:49 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 457
+[25-Mar-2015 09:21:49 UTC] PHP Notice:  Undefined index: positionb4 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 457
+[25-Mar-2015 09:21:49 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 458
+[25-Mar-2015 09:21:49 UTC] PHP Notice:  Undefined index: positionb4 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 458
+[25-Mar-2015 09:21:49 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 459
+[25-Mar-2015 09:21:49 UTC] PHP Notice:  Undefined index: positionb4 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 459
+[25-Mar-2015 09:21:49 UTC] PHP Notice:  Undefined index: replace in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 463
+[25-Mar-2015 09:21:49 UTC] PHP Notice:  Undefined index: replace in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 464
+[25-Mar-2015 09:21:49 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 476
+[25-Mar-2015 09:21:49 UTC] PHP Notice:  Undefined index: positionb21 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 476
+[25-Mar-2015 09:21:49 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 477
+[25-Mar-2015 09:21:49 UTC] PHP Notice:  Undefined index: positionb5 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 477
+[25-Mar-2015 09:21:49 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 478
+[25-Mar-2015 09:21:49 UTC] PHP Notice:  Undefined index: positionb5 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 478
+[25-Mar-2015 09:21:49 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 479
+[25-Mar-2015 09:21:49 UTC] PHP Notice:  Undefined index: positionb5 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 479
+[25-Mar-2015 09:21:49 UTC] PHP Notice:  Undefined index: replace in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 483
+[25-Mar-2015 09:21:49 UTC] PHP Notice:  Undefined index: replace in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 484
+[25-Mar-2015 09:21:49 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 497
+[25-Mar-2015 09:21:49 UTC] PHP Notice:  Undefined index: positionb21 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 497
+[25-Mar-2015 09:21:49 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 498
+[25-Mar-2015 09:21:49 UTC] PHP Notice:  Undefined index: positionb6 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 498
+[25-Mar-2015 09:21:49 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 499
+[25-Mar-2015 09:21:49 UTC] PHP Notice:  Undefined index: positionb6 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 499
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 500
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb6 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 500
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: replace in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 504
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: replace in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 505
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 518
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb21 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 518
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 519
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb7 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 519
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 520
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb7 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 520
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 521
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb7 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 521
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 538
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb21 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 538
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 539
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb8 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 539
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 540
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb8 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 540
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 541
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb8 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 541
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 558
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb21 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 558
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 559
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb9 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 559
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 560
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb9 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 560
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 561
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb9 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 561
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 578
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb21 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 578
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 579
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb10 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 579
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 580
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb10 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 580
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 581
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb10 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 581
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 599
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb21 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 599
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 600
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb11 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 600
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 601
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb11 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 601
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 602
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb11 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 602
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 620
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb21 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 620
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 621
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb12 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 621
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 622
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb12 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 622
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 623
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb12 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 623
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 658
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb21 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 658
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 659
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb13 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 659
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 660
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb13 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 660
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 661
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb13 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 661
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: replace in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 665
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: replace in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 666
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 678
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Undefined index: positionb21 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 678
+[25-Mar-2015 09:21:50 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 679
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb14 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 679
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 680
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb14 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 680
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 681
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb14 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 681
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: replace in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 685
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: replace in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 686
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 698
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb21 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 698
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 699
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb15 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 699
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 700
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb15 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 700
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 701
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb15 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 701
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: replace in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 705
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: replace in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 706
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 718
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb21 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 718
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 719
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb16 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 719
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 720
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb16 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 720
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 721
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb16 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 721
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 738
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb21 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 738
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 739
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb17 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 739
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 740
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb17 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 740
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 741
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb17 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 741
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 758
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb21 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 758
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 759
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb18 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 759
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 760
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb18 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 760
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 761
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb18 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 761
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 778
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb21 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 778
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 779
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb19 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 779
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 780
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb19 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 780
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 781
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb19 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 781
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 798
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb21 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 798
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 799
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb20 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 799
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 800
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb20 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 800
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 801
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb20 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 801
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 818
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb21 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 818
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 819
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb21 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 819
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 820
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb21 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 820
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Use of undefined constant checkness - assumed 'checkness' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 821
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: positionb21 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 821
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: option in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 841
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: option in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 864
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: notice in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 894
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: notice in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 920
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: set_timezone in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1035
+[25-Mar-2015 09:21:51 UTC] PHP Notice:  Undefined index: per_state in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1082
+[25-Mar-2015 09:22:56 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:22:56 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:22:56 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:22:56 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:22:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 173
+[25-Mar-2015 09:22:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1913
+[25-Mar-2015 09:22:57 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1961
+[25-Mar-2015 09:23:56 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:23:56 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:23:56 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:23:56 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:23:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 173
+[25-Mar-2015 09:23:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1913
+[25-Mar-2015 09:23:57 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1961
+[25-Mar-2015 09:25:33 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:25:33 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:25:33 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:25:33 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:25:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 173
+[25-Mar-2015 09:25:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1913
+[25-Mar-2015 09:25:34 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1961
+[25-Mar-2015 09:26:33 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:26:33 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:26:33 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:26:33 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:26:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 173
+[25-Mar-2015 09:26:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1913
+[25-Mar-2015 09:26:34 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1961
+[25-Mar-2015 09:27:32 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:27:32 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:27:32 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:27:32 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:27:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 173
+[25-Mar-2015 09:27:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1913
+[25-Mar-2015 09:27:33 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1961
+[25-Mar-2015 09:28:35 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:28:35 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:28:35 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:28:35 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:28:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 173
+[25-Mar-2015 09:28:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1913
+[25-Mar-2015 09:28:37 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1961
+[25-Mar-2015 09:29:40 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:29:40 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:29:40 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:29:40 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:29:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 173
+[25-Mar-2015 09:29:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1913
+[25-Mar-2015 09:29:42 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1961
+[25-Mar-2015 09:29:43 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:29:43 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:29:43 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:29:43 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:31:19 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:31:19 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:31:19 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:31:19 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:31:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 173
+[25-Mar-2015 09:31:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1913
+[25-Mar-2015 09:31:21 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1961
+[25-Mar-2015 09:33:19 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:33:19 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:33:19 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:33:19 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:33:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 173
+[25-Mar-2015 09:33:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1913
+[25-Mar-2015 09:33:20 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1961
+[25-Mar-2015 09:34:08 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:34:08 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:34:08 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:34:08 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:34:09 UTC] PHP Notice:  Use of undefined constant ICL_LANGUAGE_CODE - assumed 'ICL_LANGUAGE_CODE' in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 223
+[25-Mar-2015 09:34:10 UTC] PHP Notice:  Undefined index: option in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 2165
+[25-Mar-2015 09:34:10 UTC] PHP Notice:  Undefined index: option in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 2109
+[25-Mar-2015 09:34:10 UTC] Array
+(
+    [billing_country] => Array
+        (
+            [type] => country
+            [label] => Country
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                    [2] => update_totals_on_change
+                )
+
+        )
+
+    [billing_first_name] => Array
+        (
+            [label] => First Name
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-first
+                )
+
+        )
+
+    [billing_last_name] => Array
+        (
+            [label] => Last Name
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-last
+                )
+
+            [clear] => 1
+        )
+
+    [billing_company] => Array
+        (
+            [label] => Company Name
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                )
+
+        )
+
+    [billing_address_1] => Array
+        (
+            [label] => Address
+            [placeholder] => Street address
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                )
+
+        )
+
+    [billing_address_2] => Array
+        (
+            [placeholder] => Apartment, suite, unit etc. (optional)
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                )
+
+            [required] => 
+        )
+
+    [billing_city] => Array
+        (
+            [label] => Town / City
+            [placeholder] => Town / City
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                )
+
+        )
+
+    [billing_state] => Array
+        (
+            [type] => state
+            [label] => State
+            [placeholder] => State / County
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-first
+                    [1] => address-field
+                )
+
+            [validate] => Array
+                (
+                    [0] => state
+                )
+
+        )
+
+    [billing_postcode] => Array
+        (
+            [label] => Zip
+            [placeholder] => Postcode / Zip
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-last
+                    [1] => address-field
+                )
+
+            [clear] => 1
+            [validate] => Array
+                (
+                    [0] => postcode
+                )
+
+        )
+
+    [billing_email] => Array
+        (
+            [label] => Email Address
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-first
+                )
+
+            [validate] => Array
+                (
+                    [0] => email
+                )
+
+        )
+
+    [billing_phone] => Array
+        (
+            [label] => Phone
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-last
+                )
+
+            [clear] => 1
+            [validate] => Array
+                (
+                    [0] => phone
+                )
+
+        )
+
+)
+
+[25-Mar-2015 09:34:10 UTC] PHP Notice:  Undefined index: option in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 2083
+[25-Mar-2015 09:34:21 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:34:21 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:34:21 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:34:21 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:34:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 173
+[25-Mar-2015 09:34:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1913
+[25-Mar-2015 09:34:22 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1961
+[25-Mar-2015 09:34:25 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:34:25 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:34:25 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:34:25 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:34:25 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:34:25 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:34:25 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:34:25 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:34:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 173
+[25-Mar-2015 09:34:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1913
+[25-Mar-2015 09:34:27 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1961
+[25-Mar-2015 09:34:28 UTC] PHP Notice:  Undefined index: option in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 2109
+[25-Mar-2015 09:34:28 UTC] Array
+(
+    [billing_country] => Array
+        (
+            [type] => country
+            [label] => Country
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                    [2] => update_totals_on_change
+                )
+
+        )
+
+    [billing_first_name] => Array
+        (
+            [label] => First Name
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-first
+                )
+
+        )
+
+    [billing_last_name] => Array
+        (
+            [label] => Last Name
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-last
+                )
+
+            [clear] => 1
+        )
+
+    [billing_company] => Array
+        (
+            [label] => Company Name
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                )
+
+        )
+
+    [billing_address_1] => Array
+        (
+            [label] => Address
+            [placeholder] => Street address
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                )
+
+        )
+
+    [billing_address_2] => Array
+        (
+            [placeholder] => Apartment, suite, unit etc. (optional)
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                )
+
+            [required] => 
+        )
+
+    [billing_city] => Array
+        (
+            [label] => Town / City
+            [placeholder] => Town / City
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                )
+
+        )
+
+    [billing_state] => Array
+        (
+            [type] => state
+            [label] => State
+            [placeholder] => State / County
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-first
+                    [1] => address-field
+                )
+
+            [validate] => Array
+                (
+                    [0] => state
+                )
+
+        )
+
+    [billing_postcode] => Array
+        (
+            [label] => Zip
+            [placeholder] => Postcode / Zip
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-last
+                    [1] => address-field
+                )
+
+            [clear] => 1
+            [validate] => Array
+                (
+                    [0] => postcode
+                )
+
+        )
+
+    [billing_email] => Array
+        (
+            [label] => Email Address
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-first
+                )
+
+            [validate] => Array
+                (
+                    [0] => email
+                )
+
+        )
+
+    [billing_phone] => Array
+        (
+            [label] => Phone
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-last
+                )
+
+            [clear] => 1
+            [validate] => Array
+                (
+                    [0] => phone
+                )
+
+        )
+
+)
+
+[25-Mar-2015 09:34:28 UTC] PHP Notice:  Undefined index: option in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 2083
+[25-Mar-2015 09:34:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 173
+[25-Mar-2015 09:34:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1913
+[25-Mar-2015 09:34:32 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1961
+[25-Mar-2015 09:34:32 UTC] PHP Notice:  Undefined index: option in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 2109
+[25-Mar-2015 09:34:32 UTC] Array
+(
+    [billing_country] => Array
+        (
+            [type] => country
+            [label] => Country
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                    [2] => update_totals_on_change
+                )
+
+        )
+
+    [billing_first_name] => Array
+        (
+            [label] => First Name
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-first
+                )
+
+        )
+
+    [billing_last_name] => Array
+        (
+            [label] => Last Name
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-last
+                )
+
+            [clear] => 1
+        )
+
+    [billing_company] => Array
+        (
+            [label] => Company Name
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                )
+
+        )
+
+    [billing_address_1] => Array
+        (
+            [label] => Address
+            [placeholder] => Street address
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                )
+
+        )
+
+    [billing_address_2] => Array
+        (
+            [placeholder] => Apartment, suite, unit etc. (optional)
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                )
+
+            [required] => 
+        )
+
+    [billing_city] => Array
+        (
+            [label] => Town / City
+            [placeholder] => Town / City
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                )
+
+        )
+
+    [billing_state] => Array
+        (
+            [type] => state
+            [label] => State
+            [placeholder] => State / County
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-first
+                    [1] => address-field
+                )
+
+            [validate] => Array
+                (
+                    [0] => state
+                )
+
+        )
+
+    [billing_postcode] => Array
+        (
+            [label] => Zip
+            [placeholder] => Postcode / Zip
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-last
+                    [1] => address-field
+                )
+
+            [clear] => 1
+            [validate] => Array
+                (
+                    [0] => postcode
+                )
+
+        )
+
+    [billing_email] => Array
+        (
+            [label] => Email Address
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-first
+                )
+
+            [validate] => Array
+                (
+                    [0] => email
+                )
+
+        )
+
+    [billing_phone] => Array
+        (
+            [label] => Phone
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-last
+                )
+
+            [clear] => 1
+            [validate] => Array
+                (
+                    [0] => phone
+                )
+
+        )
+
+)
+
+[25-Mar-2015 09:34:32 UTC] PHP Notice:  Undefined index: option in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 2083
+[25-Mar-2015 09:34:35 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:34:35 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:34:35 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:34:35 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:34:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 173
+[25-Mar-2015 09:34:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1913
+[25-Mar-2015 09:34:37 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1961
+[25-Mar-2015 09:34:38 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:34:38 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:34:38 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:34:38 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:34:38 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:34:38 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:34:38 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:34:38 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:34:38 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:34:38 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:34:38 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:34:38 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:34:38 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:34:38 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:34:38 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:34:38 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:35:18 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:35:18 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:35:18 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:35:18 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:35:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 173
+[25-Mar-2015 09:35:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1913
+[25-Mar-2015 09:35:20 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1961
+[25-Mar-2015 09:35:40 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:35:40 UTC] PHP Notice:  Undefined index: host in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 161
+[25-Mar-2015 09:35:40 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:35:40 UTC] PHP Notice:  Undefined offset: -1 in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\add-on\include\dislawooccm.php on line 42
+[25-Mar-2015 09:35:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 173
+[25-Mar-2015 09:35:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1913
+[25-Mar-2015 09:35:41 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in C:\xampp\htdocs\saigonhoa\wp-content\plugins\woocommerce-checkout-manager-pro\woocommerce-checkout-manager-pro.php on line 1961
+[25-Mar-2015 09:48:10 UTC] Array
+(
+    [billing_country] => Array
+        (
+            [type] => country
+            [label] => Country
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                    [2] => update_totals_on_change
+                )
+
+        )
+
+    [billing_first_name] => Array
+        (
+            [label] => First Name
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-first
+                )
+
+        )
+
+    [billing_last_name] => Array
+        (
+            [label] => Last Name
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-last
+                )
+
+            [clear] => 1
+        )
+
+    [billing_company] => Array
+        (
+            [label] => Company Name
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                )
+
+        )
+
+    [billing_address_1] => Array
+        (
+            [label] => Address
+            [placeholder] => Street address
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                )
+
+        )
+
+    [billing_address_2] => Array
+        (
+            [placeholder] => Apartment, suite, unit etc. (optional)
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                )
+
+            [required] => 
+        )
+
+    [billing_city] => Array
+        (
+            [label] => Town / City
+            [placeholder] => Town / City
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                )
+
+        )
+
+    [billing_state] => Array
+        (
+            [type] => state
+            [label] => State
+            [placeholder] => State / County
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-first
+                    [1] => address-field
+                )
+
+            [validate] => Array
+                (
+                    [0] => state
+                )
+
+        )
+
+    [billing_postcode] => Array
+        (
+            [label] => Zip
+            [placeholder] => Postcode / Zip
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-last
+                    [1] => address-field
+                )
+
+            [clear] => 1
+            [validate] => Array
+                (
+                    [0] => postcode
+                )
+
+        )
+
+    [billing_email] => Array
+        (
+            [label] => Email Address
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-first
+                )
+
+            [validate] => Array
+                (
+                    [0] => email
+                )
+
+        )
+
+    [billing_phone] => Array
+        (
+            [label] => Phone
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-last
+                )
+
+            [clear] => 1
+            [validate] => Array
+                (
+                    [0] => phone
+                )
+
+        )
+
+)
+
+[25-Mar-2015 09:48:21 UTC] Array
+(
+    [billing_country] => Array
+        (
+            [type] => country
+            [label] => Country
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                    [2] => update_totals_on_change
+                )
+
+        )
+
+    [billing_first_name] => Array
+        (
+            [label] => First Name
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-first
+                )
+
+        )
+
+    [billing_last_name] => Array
+        (
+            [label] => Last Name
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-last
+                )
+
+            [clear] => 1
+        )
+
+    [billing_company] => Array
+        (
+            [label] => Company Name
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                )
+
+        )
+
+    [billing_address_1] => Array
+        (
+            [label] => Address
+            [placeholder] => Street address
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                )
+
+        )
+
+    [billing_address_2] => Array
+        (
+            [placeholder] => Apartment, suite, unit etc. (optional)
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                )
+
+            [required] => 
+        )
+
+    [billing_city] => Array
+        (
+            [label] => Town / City
+            [placeholder] => Town / City
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                )
+
+        )
+
+    [billing_state] => Array
+        (
+            [type] => state
+            [label] => State
+            [placeholder] => State / County
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-first
+                    [1] => address-field
+                )
+
+            [validate] => Array
+                (
+                    [0] => state
+                )
+
+        )
+
+    [billing_postcode] => Array
+        (
+            [label] => Zip
+            [placeholder] => Postcode / Zip
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-last
+                    [1] => address-field
+                )
+
+            [clear] => 1
+            [validate] => Array
+                (
+                    [0] => postcode
+                )
+
+        )
+
+    [billing_email] => Array
+        (
+            [label] => Email Address
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-first
+                )
+
+            [validate] => Array
+                (
+                    [0] => email
+                )
+
+        )
+
+    [billing_phone] => Array
+        (
+            [label] => Phone
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-last
+                )
+
+            [clear] => 1
+            [validate] => Array
+                (
+                    [0] => phone
+                )
+
+        )
+
+)
+
+[25-Mar-2015 09:48:25 UTC] Array
+(
+    [billing_country] => Array
+        (
+            [type] => country
+            [label] => Country
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                    [2] => update_totals_on_change
+                )
+
+        )
+
+    [billing_first_name] => Array
+        (
+            [label] => First Name
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-first
+                )
+
+        )
+
+    [billing_last_name] => Array
+        (
+            [label] => Last Name
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-last
+                )
+
+            [clear] => 1
+        )
+
+    [billing_company] => Array
+        (
+            [label] => Company Name
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                )
+
+        )
+
+    [billing_address_1] => Array
+        (
+            [label] => Address
+            [placeholder] => Street address
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                )
+
+        )
+
+    [billing_address_2] => Array
+        (
+            [placeholder] => Apartment, suite, unit etc. (optional)
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                )
+
+            [required] => 
+        )
+
+    [billing_city] => Array
+        (
+            [label] => Town / City
+            [placeholder] => Town / City
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                )
+
+        )
+
+    [billing_state] => Array
+        (
+            [type] => state
+            [label] => State
+            [placeholder] => State / County
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-first
+                    [1] => address-field
+                )
+
+            [validate] => Array
+                (
+                    [0] => state
+                )
+
+        )
+
+    [billing_postcode] => Array
+        (
+            [label] => Zip
+            [placeholder] => Postcode / Zip
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-last
+                    [1] => address-field
+                )
+
+            [clear] => 1
+            [validate] => Array
+                (
+                    [0] => postcode
+                )
+
+        )
+
+    [billing_email] => Array
+        (
+            [label] => Email Address
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-first
+                )
+
+            [validate] => Array
+                (
+                    [0] => email
+                )
+
+        )
+
+    [billing_phone] => Array
+        (
+            [label] => Phone
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-last
+                )
+
+            [clear] => 1
+            [validate] => Array
+                (
+                    [0] => phone
+                )
+
+        )
+
+)
+
+[25-Mar-2015 13:22:11 UTC] Array
+(
+    [billing_country] => Array
+        (
+            [type] => country
+            [label] => Country
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                    [2] => update_totals_on_change
+                )
+
+        )
+
+    [billing_first_name] => Array
+        (
+            [label] => First Name
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-first
+                )
+
+        )
+
+    [billing_last_name] => Array
+        (
+            [label] => Last Name
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-last
+                )
+
+            [clear] => 1
+        )
+
+    [billing_company] => Array
+        (
+            [label] => Company Name
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                )
+
+        )
+
+    [billing_address_1] => Array
+        (
+            [label] => Address
+            [placeholder] => Street address
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                )
+
+        )
+
+    [billing_address_2] => Array
+        (
+            [placeholder] => Apartment, suite, unit etc. (optional)
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                )
+
+            [required] => 
+        )
+
+    [billing_city] => Array
+        (
+            [label] => Town / City
+            [placeholder] => Town / City
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                )
+
+        )
+
+    [billing_state] => Array
+        (
+            [type] => state
+            [label] => State
+            [placeholder] => State / County
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-first
+                    [1] => address-field
+                )
+
+            [validate] => Array
+                (
+                    [0] => state
+                )
+
+        )
+
+    [billing_postcode] => Array
+        (
+            [label] => Zip
+            [placeholder] => Postcode / Zip
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-last
+                    [1] => address-field
+                )
+
+            [clear] => 1
+            [validate] => Array
+                (
+                    [0] => postcode
+                )
+
+        )
+
+    [billing_email] => Array
+        (
+            [label] => Email Address
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-first
+                )
+
+            [validate] => Array
+                (
+                    [0] => email
+                )
+
+        )
+
+    [billing_phone] => Array
+        (
+            [label] => Phone
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-last
+                )
+
+            [clear] => 1
+            [validate] => Array
+                (
+                    [0] => phone
+                )
+
+        )
+
+)
+
+[25-Mar-2015 13:22:25 UTC] Array
+(
+    [billing_country] => Array
+        (
+            [type] => country
+            [label] => Country
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                    [2] => update_totals_on_change
+                )
+
+        )
+
+    [billing_first_name] => Array
+        (
+            [label] => First Name
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-first
+                )
+
+        )
+
+    [billing_last_name] => Array
+        (
+            [label] => Last Name
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-last
+                )
+
+            [clear] => 1
+        )
+
+    [billing_company] => Array
+        (
+            [label] => Company Name
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                )
+
+        )
+
+    [billing_address_1] => Array
+        (
+            [label] => Address
+            [placeholder] => Street address
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                )
+
+        )
+
+    [billing_address_2] => Array
+        (
+            [placeholder] => Apartment, suite, unit etc. (optional)
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                )
+
+            [required] => 
+        )
+
+    [billing_city] => Array
+        (
+            [label] => Town / City
+            [placeholder] => Town / City
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                )
+
+        )
+
+    [billing_state] => Array
+        (
+            [type] => state
+            [label] => State
+            [placeholder] => State / County
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-first
+                    [1] => address-field
+                )
+
+            [validate] => Array
+                (
+                    [0] => state
+                )
+
+        )
+
+    [billing_postcode] => Array
+        (
+            [label] => Zip
+            [placeholder] => Postcode / Zip
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-last
+                    [1] => address-field
+                )
+
+            [clear] => 1
+            [validate] => Array
+                (
+                    [0] => postcode
+                )
+
+        )
+
+    [billing_email] => Array
+        (
+            [label] => Email Address
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-first
+                )
+
+            [validate] => Array
+                (
+                    [0] => email
+                )
+
+        )
+
+    [billing_phone] => Array
+        (
+            [label] => Phone
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-last
+                )
+
+            [clear] => 1
+            [validate] => Array
+                (
+                    [0] => phone
+                )
+
+        )
+
+)
+
+[25-Mar-2015 13:22:26 UTC] Array
+(
+    [billing_country] => Array
+        (
+            [type] => country
+            [label] => Country
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                    [2] => update_totals_on_change
+                )
+
+        )
+
+    [billing_first_name] => Array
+        (
+            [label] => First Name
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-first
+                )
+
+        )
+
+    [billing_last_name] => Array
+        (
+            [label] => Last Name
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-last
+                )
+
+            [clear] => 1
+        )
+
+    [billing_company] => Array
+        (
+            [label] => Company Name
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                )
+
+        )
+
+    [billing_address_1] => Array
+        (
+            [label] => Address
+            [placeholder] => Street address
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                )
+
+        )
+
+    [billing_address_2] => Array
+        (
+            [placeholder] => Apartment, suite, unit etc. (optional)
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                )
+
+            [required] => 
+        )
+
+    [billing_city] => Array
+        (
+            [label] => Town / City
+            [placeholder] => Town / City
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-wide
+                    [1] => address-field
+                )
+
+        )
+
+    [billing_state] => Array
+        (
+            [type] => state
+            [label] => State
+            [placeholder] => State / County
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-first
+                    [1] => address-field
+                )
+
+            [validate] => Array
+                (
+                    [0] => state
+                )
+
+        )
+
+    [billing_postcode] => Array
+        (
+            [label] => Zip
+            [placeholder] => Postcode / Zip
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-last
+                    [1] => address-field
+                )
+
+            [clear] => 1
+            [validate] => Array
+                (
+                    [0] => postcode
+                )
+
+        )
+
+    [billing_email] => Array
+        (
+            [label] => Email Address
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-first
+                )
+
+            [validate] => Array
+                (
+                    [0] => email
+                )
+
+        )
+
+    [billing_phone] => Array
+        (
+            [label] => Phone
+            [required] => 1
+            [class] => Array
+                (
+                    [0] => form-row-last
+                )
+
+            [clear] => 1
+            [validate] => Array
+                (
+                    [0] => phone
+                )
+
+        )
+
+)
+
